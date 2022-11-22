@@ -45,3 +45,50 @@ C:\Users\patrick.oliveira\Desktop\Tela de cadastro\register-modavo\Tela de regis
 C:\Users\patrick.oliveira\Desktop\Tela de cadastro\register-modavo\Tela de registro\bin\Debug\net5.0\System.Text.Json.dll
 C:\Users\patrick.oliveira\Desktop\Tela de cadastro\register-modavo\Tela de registro\bin\Debug\net5.0\RestSharp.dll
 C:\Users\patrick.oliveira\Desktop\Tela de cadastro\register-modavo\Tela de registro\bin\Debug\net5.0\libman.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\appsettings.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\libman.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.exe
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.deps.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.runtimeconfig.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.pdb
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.Views.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Tela de registro.Views.pdb
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\Refit.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\RestSharp.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.AssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.RazorAssemblyInfo.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.RazorAssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\scopedcss\bundle\Tela de registro.styles.css
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\staticwebassets\Tela de registro.StaticWebAssets.Manifest.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.TagHelpers.input.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.TagHelpers.output.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.RazorCoreGenerate.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.RazorTargetAssemblyInfo.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.RazorTargetAssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.Views.pdb
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.csproj.CopyComplete
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\refint\Tela de registro.dll
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.pdb
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\Tela de registro.genruntimeconfig.cache
+C:\Users\patrick.oliveira\source\repos\Registro-com-API-de-inser-o-no-banco-de-dados\obj\Debug\net5.0\ref\Tela de registro.dll

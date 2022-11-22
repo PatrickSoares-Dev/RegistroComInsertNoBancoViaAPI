@@ -1,0 +1,165 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body>
+    <div class="page-wrapper p-t-180 p-b-100 font-robo">
+        <div class="wrapper wrapper--w960">
+            <div class="card card-2 row align-items-center" style="border: none;">
+                <div class="card-body">
+
+                    <div id="messenger" class="d-flex flex-column" style="display: none !important;">
+                        <h3 class="p-2" id="createText" style="">Criando sua conta</h3>
+                        <div class="loader p-2">
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </div>
+                    </div>
+
+                    <form method="POST" class="form" id="form" name="form">
+
+                        <div class="input-group">
+                            <input class="input--style-2" id="username" type="text" placeholder="Nome de usuário" name="username" maxlength="15">
+                        </div>
+
+                        <div class="input-group1">
+                            <small id="sUsername" style="color: #666;">
+
+                            </small>
+                        </div>
+
+                        <div class="input-group">
+                            <input class="input--style-2" id="email" oninput="validacaoEmail(form.email)" type="email" placeholder="Insira seu e-mail" name="email">
+                        </div>
+
+                        <div class="input-group1">
+                            <small id="sEmail" style="color: #666">
+
+                            </small>
+                        </div>
+
+                        <div class="input-group">
+                            <input class="input--style-2" id="password" type="password" placeholder="Insira sua senha" name="password" maxlength="15">
+                        </div>
+                        <div class="input-group1">
+                            <small id="sPassword" style="color: #666;">
+                                Senha precisa conter pelo menos 8 caracteres, sendo ao menos 1 número,<br /> 1 letra minúscula,
+                                1 letra maiúscula e 1 caractere especial.
+                            </small>
+                        </div>
+
+                        <div class="input-group">
+                            <input class="input--style-2" id="confirmPassword" type="password" placeholder="Confirme sua Senha" name="confirmPassword" maxlength="15">
+                        </div>
+
+                        <div class="input-group1" style="margin-bottom: 1px;">
+                            <small id="sConfirmPassword" style="color: #666;">
+
+                            </small>
+                        </div>
+
+                        <div class="p-t-30" style="margin-bottom: -5px;">
+                            <button class="btn btn--radius btn--green" onclick="validate()" style="cursor: not-allowed" type="button" disabled>TESTE GRÁTIS</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<style>
+
+
+
+    .loader {
+        width: 25px;
+        height: 25px;
+        margin-left: 12rem;
+        position: relative;
+    }
+
+        .loader div {
+            background: #49B7E7;
+            width: 6px;
+            height: 20px;
+            border-radius: 5px;
+            transform-origin: 10px 35px;
+            transform: rotate(0deg);
+            position: absolute;
+            left: 45px;
+            top: 15px;
+            animation: loader 0.8s infinite;
+        }
+
+            .loader div:nth-child(2) {
+                transform: rotate(45deg);
+                animation-delay: 0.1s;
+            }
+
+            .loader div:nth-child(3) {
+                transform: rotate(90deg);
+                animation-delay: 0.2s;
+            }
+
+            .loader div:nth-child(4) {
+                transform: rotate(135deg);
+                animation-delay: 0.3s;
+            }
+
+            .loader div:nth-child(5) {
+                transform: rotate(180deg);
+                animation-delay: 0.4s;
+            }
+
+            .loader div:nth-child(6) {
+                transform: rotate(225deg);
+                animation-delay: 0.5s;
+            }
+
+            .loader div:nth-child(7) {
+                transform: rotate(270deg);
+                animation-delay: 0.6s;
+            }
+
+            .loader div:nth-child(8) {
+                transform: rotate(315deg);
+                animation-delay: 0.7s;
+            }
+
+    @@keyframes loader {
+        0% {
+            background: transparent;
+            transform-origin: 10px 35px;
+            left: 45px;
+        }
+
+        30% {
+            background: #49B7E7;
+        }
+
+        100% {
+            background: transparent;
+            transform-origin: -10px 35px;
+            left: 55px;
+        }
+    }
+</style>
+
+
+
+@section Scripts {
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="~/js/site.js" asp-append-version="true"></script>
+
+
+    }
